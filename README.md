@@ -5,9 +5,13 @@ This is a simple webpage created using React and Material UI for practice purpos
 Features:
 
 Responsive design
+
 Navigation bar with links
+
 Cards displaying information
+
 Form for user input
+
 Feed for posts and messages
 
 # Getting Started with Create React App
