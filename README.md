@@ -1,3 +1,15 @@
+React Material UI Sample Webpage
+
+This is a simple webpage created using React and Material UI for practice purposes.
+
+Features:
+
+Responsive design
+Navigation bar with links
+Cards displaying information
+Form for user input
+Feed for posts and messages
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
